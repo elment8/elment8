@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=elment8&label=Profile%20Views&color=3&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **elment8/elment8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
